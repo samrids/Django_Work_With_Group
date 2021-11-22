@@ -1,4 +1,4 @@
-ฝึกฝึมือเขียน Django
+ฝึกเขียน Django
 
 Django work with group<br>
 Django Coding Challenges Ref. Link:<br>
